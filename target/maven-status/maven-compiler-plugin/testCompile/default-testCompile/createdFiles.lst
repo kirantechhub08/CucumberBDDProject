@@ -1,0 +1,6 @@
+stepdefination\BaseClass.class
+pageobjects\LoginPage.class
+stepdefination\Stepdef.class
+pageobjects\CustomerPage.class
+runner\run.class
+pageobjects\SearchCustomerPage.class
